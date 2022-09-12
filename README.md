@@ -2,7 +2,7 @@
 
 ##### <p align="center">
 
-#### <h2> A Simple forum Website where the user can </h2>
+#### A Simple forum Website where the user can:
 - Signup 
 - Login 
 - Create/Edit Posts
