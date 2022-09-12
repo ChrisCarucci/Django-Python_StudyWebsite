@@ -9,5 +9,9 @@
 - Create a Basic User Profile
 - Comment on User Profiles
 - Join/Create Topics
+- Comment on Topics
+- View Activity Feed for Topics
+- View Users Activity Feed
+- Retain Own Activity Field on Profile
 
 </p>
