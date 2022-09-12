@@ -15,3 +15,11 @@
 - Retain Own Activity Field on Profile
 
 </p>
+
+## Languages/addons used:
+- Python
+- Html5
+- CSS3
+- JavaScript
+- Bootstrap
+- SqlLite
